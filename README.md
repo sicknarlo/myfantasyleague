@@ -1,0 +1,2 @@
+# My Fantasy League JS [![Build Status](https://travis-ci.org/sicknarlo/myfantasyleague.svg?branch=master)](https://travis-ci.org/sicknarlo/myfantasyleague) [![Coverage Status](https://coveralls.io/repos/github/sicknarlo/myfantasyleague/badge.svg?branch=master)](https://coveralls.io/github/sicknarlo/myfantasyleague?branch=master)
+A wrapper API for interacting with the My Fantasy League Open Developers API (http://home.myfantasyleague.com/features/developers-api/)
